@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>App jSON</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="assets/css/materialize.min.css">
+	<script src="assets/js/jquery-3.2.1.min.js"></script>
+	<script src="assets/js/materialize.min.js"></script>
+	<script src="assets/js/app.js"></script>
+	<script type="text/javascript">
+		$(() => {
+			app.modules.init('../');
+		});
+	</script>
+</head>
+<body>
+
+	<nav>
+		<div class="nav-wrapper cyan darken-4">
+			<a href="#" class="brand-logo center">Liste des lOGIN</a>
+		</div>
+	</nav>
+
+	<div class="container">
+	    <div class="section">
+	    	<div class="row">
+				<div class="col s12">
+					<table id="data" class="bordered centered highlight striped"></table>
+				</div>
+			</div>
+		</div>
+	</div>
+
+</body>
+</html>
