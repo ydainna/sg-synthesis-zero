@@ -27,3 +27,4 @@ dans le dossier web API se trouve le récepteur d'informations qui permet de ré
 Par exemple en France, ce droit est garanti par l'article L122-6-1 du code de la propriété intellectuelle. On trouve des dispositions similaires dans la directive 2009/24/CE du Parlement européen et du Conseil du 23 avril 2009.
 
 **aucun tutoriel ne sera fais sur l'utilisation des fonctions.**
+**Merci à Ankama games pour leurs aide (code de base pris dans le cdn lang dans le fichier : states_fr_.)**
