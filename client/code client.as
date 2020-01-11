@@ -1,4 +1,5 @@
-﻿//Crée par ydainna (through adobe flash cs6) 
+﻿//Crée par ydainna (through adobe flash cs6)
+//Merci ankama pour l'aide (code base (folder lang)) : states_fr_x.swf
 
 //A ajouter dans une fonction divers du client... (adapter selon besoin)
 var api = _root.mcModules.mcCORE.BATTLEFIELD._oAPI;
